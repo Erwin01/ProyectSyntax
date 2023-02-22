@@ -1,0 +1,110 @@
+
+Doctus $5'500.000
+2>30 pm 40 a 45 minutos
+
+
+
+
+MVM 6'000'000
+
+👉 Si en algún momento te equivocas en una respuesta, elige la opción "Volver atrás" en el menú inferior izquierdo 
+o simplemente escribe la palabra "Volver" y podrás cambiar la respuesta.
+
+
+👉 Si en algún momento de la entrevista te bloqueas o no sabes cómo seguir, escribe la palabra "Ayuda", 
+o elige en el menú la opción "Ayuda.
+
+
+👉 En nuestra Familia MVM nos interesan más tus cualidades como ser humano, nos gustan las personas que se 
+conectan con su propósito individual desde el respeto y el trabajo en equipo. Nos une la pasión por el conocimiento,
+ la tecnología y las ganas de apostarle a un mundo mejor.
+
+Una semana
+
+lunes a viernes
+
+horaerio 6 a 9 am
+
+MVM medellin
+
+desarrollador .net
+
+xm
+isagen
+
+yesica mvm ingebnieria de software
+
+3 horas al link
+
+4 jercicios 
+net 
+c# 
+Sql 
+Angular
+y otro
+
+
+
+--------------------------------------------------------------
+
+
+https://www.netmentor.es/entrada/rendimiento-csharp
+
+---------------------------
+
+Talma
+
+Analista desarrollo software
+Aeroportuarios
+Aplicaciones
+
+Indefinido 3'800.000
+
+-----------------------------
+
+
+--------------------------------------------
+Procesos tercerizados.
+Empresa bogpta/Medellin
+4'800.000
+--------------------------------------------
+
+
+https://www.youtube.com/watch?v=E3F-L-CcACQ&list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS&index=5
+
+
+Santiago
+Salud total Eps
+
+
+Operaciones Contratadas
+
+Programador 2 Medical Salud total
+
+4'893.000
+Lunes 7 a 5 pm o 8 a 6 pm
+
+Banco Bogota
+Sacar nueva bancaria
+Fijo  
+
+
+Demo Arquitecture => Claims Manager
+
+Task<T> Add(T obj);
+Task<T> Update(T obj, int id);
+Task<bool> Delete(int id);
+Task<List<T>> GetAll();
+Task<T> GetById(int id);
+Task<List<T>> GetByParam(Func<T, bool> pre);
+Task<T> GetByParamFirst(Func<T, bool> pre);
+
+Task<List<T>> AddList(List<T> obj);
+Task<bool> DeleteLogicalErased(int id);
+
+
+<add name="EntidadesContrato" connectionString="metadata=res://*/Modelo.csdl|res://*/Modelo.ssdl|res://*/Modelo.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=.;initial catalog=ContratosGeneral;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName="System.Data.EntityClient" />
+
+Obtener link guia local
+https://maps.app.goo.gl/6PspQbrpwhMHp3c48
+
